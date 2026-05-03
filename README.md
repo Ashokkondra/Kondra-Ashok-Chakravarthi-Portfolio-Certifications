@@ -52,7 +52,7 @@ This repository presents my work in CAD/CAE, engineering design, analysis projec
 * Industrial Training Certificate
 * Letter of recommendation
 
-Certificates are available in the `Certificates/` folder.
+Certificates are available in " https://github.com/Ashokkondra/certificates- ".
 
 ---
 
