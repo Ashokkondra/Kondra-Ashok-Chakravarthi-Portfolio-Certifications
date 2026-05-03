@@ -43,7 +43,7 @@ Images are available in " https://github.com/Ashokkondra/Jet-Engine "
 
 * Studied crankshaft design under working conditions
 * Focused on structural behavior and engineering evaluation
-
+Files in " https://github.com/Ashokkondra/Failure-Analysis-of-Crankshaft "
 ---
 
 ## Certifications
@@ -52,15 +52,9 @@ Images are available in " https://github.com/Ashokkondra/Jet-Engine "
 * Internship Certificate
 * Industrial Training Certificate
 * Letter of recommendation
+* AI FOR TECHIES
 
 Certificates are available in " https://github.com/Ashokkondra/certificates- ".
-
----
-
-## Project Media
-
-* Images, pdf and design screenshots are included in respective project folders
-* Videos demonstrating models and concepts are also provided
 
 ---
 
@@ -68,7 +62,6 @@ Certificates are available in " https://github.com/Ashokkondra/certificates- ".
 
 * CAD/CAE Tools: PTC Creo, AutoCAD, SOLIDWORKS, ANSYS, FUSION 360
 * Engineering Skills:
-
   * 3D Modeling
   * Assembly Design
   * Engineering Analysis
