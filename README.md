@@ -69,6 +69,12 @@ Certificates are available in " https://github.com/Ashokkondra/certificates- ".
 
 ---
 
+## EXTRA CURRICULAR ACTIVITIES
+
+* Participated in the Certification Program on the workshop titled "Success Skill Development
+* Participated in INDIA DESIGN WEEK 2026 Team 1477
+EXTRA CURRICULAR ACTIVITIES Certificates " https://github.com/Ashokkondra/EXTRA-CURRICULAR-ACTIVITIES "
+
 ## Contact
 
 * Email: ashokkondra23@gmail.com
