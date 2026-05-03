@@ -20,7 +20,7 @@ This repository presents my work in CAD/CAE, engineering design, analysis projec
 * Developed a detailed 3D model of a V6 turbocharged engine
 * Focused on component-level geometry and assembly
 * Tool used: PTC Creo
-
+Video and images are available in " https://github.com/Ashokkondra/V6-Turbo-Engine "
 ---
 
 ### Jet Engine Design (PTC Creo)
@@ -28,6 +28,7 @@ This repository presents my work in CAD/CAE, engineering design, analysis projec
 * Designed and modeled a jet engine with key components
 * Applied CAD principles and mechanical design concepts
 * Included part modeling and assembly
+Images are available in " https://github.com/Ashokkondra/Jet-Engine "
 
 ---
 
